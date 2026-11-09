@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/NalluriHarshaVardhan/drago/main/assets/dragon.gif" width="650" alt="My Evolving Dragon">
+  <br>
+  <img src="https://raw.githubusercontent.com/NalluriHarshaVardhan/drago/main/assets/dragon-status.svg" width="650" alt="Drago Status Card">
+</p>
+
+<p align="center">
   <img src="./assets/dragon.gif" width="650" alt="Drago - Animated GitHub Profile Dragon">
 </p>
 
